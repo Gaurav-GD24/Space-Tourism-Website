@@ -46,7 +46,7 @@ Grid containers are used for structuring content, and their layouts adapt to dif
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
 
--   Live Site URL: https://shoppinglistapplication.netlify.app
+-   Live Site URL: (https://explore-the-space-travel.netlify.app/)
 -   Frontend Mentor - [@Gaurav-GD24](https://www.frontendmentor.io/profile/Gaurav-GD24)
 -   Twitter - [@Gaurav_GD24](https://twitter.com/Gaurav_GD24)
 
